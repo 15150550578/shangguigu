@@ -1,0 +1,23 @@
+# Keil, debugger, and local editor files
+**/MDK-ARM/
+**/DebugConfig/
+**/.vscode/
+
+# Startup files
+**/startup_*.s
+**/startup_*.S
+**/startup_*.c
+**/Startup/
+
+# Embedded build artifacts
+**/*.axf
+**/*.crf
+**/*.d
+**/*.dep
+**/*.htm
+**/*.lnp
+**/*.lst
+**/*.map
+**/*.o
+**/*.scvd
+**/*.sct
